@@ -1,4 +1,4 @@
-This is Python version 3.10.0 alpha 6 modif_rama2
+This is Python version 3.10.0 alpha 6 modif_ramaexperimental
 =====================================
 
 .. image:: https://travis-ci.com/python/cpython.svg?branch=master
