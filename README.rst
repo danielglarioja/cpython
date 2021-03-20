@@ -1,4 +1,6 @@
-This is Python version 3.10.0 alpha 6 modif_ramaexperimental
+This is Python version 3.10.0 alpha 6 
+modif solo en rama experimental
+trato de hacer push a github
 =====================================
 
 .. image:: https://travis-ci.com/python/cpython.svg?branch=master
